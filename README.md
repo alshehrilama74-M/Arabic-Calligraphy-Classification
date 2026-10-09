@@ -132,19 +132,21 @@ The final model was evaluated using 759 test images.
 
 ---
 
+
 ## Experimental Results
 
 ### Training and Validation Performance
 
-![Training Results](results/training_curves.png)
+![Training Results](results/training_curves.JPG)
 
 ### Confusion Matrix
 
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.JPG)
 
 ### Misclassified Samples
 
-![Misclassified Samples](results/misclassified_samples.png)
+![Misclassified Samples](results/misclassified_samples.JPG)
+
 
 ---
 
